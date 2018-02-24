@@ -15,3 +15,20 @@ body{
 p{
 	text-align: justify;
 }
+nav{
+background-color: 	#008B8B;
+color: #F2FFFC;
+}
+footer{
+	background-color: black;
+	color: white;
+}
+blockquote{
+	color: #D9E5E3;
+}
+ul li a{
+	color: inherit;
+}
+a{
+	color: #851944;
+}
